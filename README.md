@@ -1,6 +1,7 @@
 ![Astro Quest](test.png)
 
 ---
+# Astro quest game
 
 **Description:**
 Astro Quest is an exciting space-themed game where players control a spaceship navigating through an asteroid field. The goal is to survive as long as possible while avoiding collisions with asteroids and shooting them down to earn points.
