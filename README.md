@@ -1,5 +1,3 @@
-**Astro Quest**
-
 ![Astro Quest](test.png)
 
 ---
